@@ -1,0 +1,13 @@
+{
+    "asset": "9c0d9c39ab272d24c8e0bb6a66a051a5",
+    "fileName": "0198fcc6-8a40-71b2-9a1e-d336f6457048.wav",
+    "prompt": "impact wood",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "dcf08b99e6a23b4cee192e481d668e52",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}

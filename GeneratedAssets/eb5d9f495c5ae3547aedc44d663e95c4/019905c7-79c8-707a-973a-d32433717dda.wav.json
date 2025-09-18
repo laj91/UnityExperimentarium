@@ -1,0 +1,13 @@
+{
+    "asset": "eb5d9f495c5ae3547aedc44d663e95c4",
+    "fileName": "019905c7-79c8-707a-973a-d32433717dda.wav",
+    "prompt": "glass shattering",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "658668d06baba7dfebe19ff9e43c5108",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}

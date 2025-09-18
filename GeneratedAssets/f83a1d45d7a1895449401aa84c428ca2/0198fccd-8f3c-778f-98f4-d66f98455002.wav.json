@@ -1,0 +1,13 @@
+{
+    "asset": "f83a1d45d7a1895449401aa84c428ca2",
+    "fileName": "0198fccd-8f3c-778f-98f4-d66f98455002.wav",
+    "prompt": "sound of wooden crate hitting the ground",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "7398b07c57dfc1ddf0530e6fc5f1e263",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}

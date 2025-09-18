@@ -1,0 +1,13 @@
+{
+    "asset": "2fa291bc82c985744967a18757dac843",
+    "fileName": "0198fcac-3faa-7288-91e3-80b903c04d3f.wav",
+    "prompt": "Realistic sound of many concrete bricks falling and hitting the ground, with varying impacts to simulate a brick wall collapsing.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "986ad50955c368a5432b73441b6962b8",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

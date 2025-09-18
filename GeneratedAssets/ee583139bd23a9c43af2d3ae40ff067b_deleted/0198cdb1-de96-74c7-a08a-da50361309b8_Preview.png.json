@@ -1,0 +1,11 @@
+{
+    "asset": "ee583139bd23a9c43af2d3ae40ff067b",
+    "fileName": "0198cdb1-de96-74c7-a08a-da50361309b8_Preview.png",
+    "prompt": "low poly construction objects placed randomly and naturally on a layer named 'ConstructionLayer",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 989056073,
+    "w3CTraceId": "c5b6fba33cb0cebf1b1f7717bacaeca0",
+    "refinementMode": "Generation"
+}

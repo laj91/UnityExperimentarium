@@ -1,0 +1,13 @@
+{
+    "asset": "9c0d9c39ab272d24c8e0bb6a66a051a5",
+    "fileName": "0198fcc8-2730-74dc-8afa-0698b17b98c3.wav",
+    "prompt": "large wood crates falling to the ground",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "a7969e8cb8e034e8e5c81f0d8e3be74a",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

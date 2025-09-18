@@ -1,0 +1,13 @@
+{
+    "asset": "422717000d8eafb4792617cf8e03a86a",
+    "fileName": "0198fccc-6da2-7738-ae05-2e77b1fbc4ed.wav",
+    "prompt": "Sound of crate hitting the ground",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "1ff2b9aa9faafdcc591f850b20442797",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}
