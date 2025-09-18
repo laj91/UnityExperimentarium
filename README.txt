@@ -1,6 +1,3 @@
-// 18-09-2025 AI-Tag
-// This was created with the help of Assistant, a Unity Artificial Intelligence product.
-
 # Unity Experimentarium
 
 This project is a collection of various experiments and prototypes developed in Unity. It includes multiple scenes, systems, and assets that demonstrate different functionalities and concepts.
